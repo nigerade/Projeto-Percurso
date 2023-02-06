@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\exPercurso\exPercurso\bin\Debug\exPercurso.exe.config
+C:\Users\Aluno\source\repos\exPercurso\exPercurso\bin\Debug\exPercurso.exe
+C:\Users\Aluno\source\repos\exPercurso\exPercurso\bin\Debug\exPercurso.pdb
+C:\Users\Aluno\source\repos\exPercurso\exPercurso\obj\Debug\exPercurso.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\exPercurso\exPercurso\obj\Debug\exPercurso.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\exPercurso\exPercurso\obj\Debug\exPercurso.exe
+C:\Users\Aluno\source\repos\exPercurso\exPercurso\obj\Debug\exPercurso.pdb
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\bin\Debug\exPercurso.exe.config
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\bin\Debug\exPercurso.exe
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\bin\Debug\exPercurso.pdb
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\obj\Debug\exPercurso.csproj.AssemblyReference.cache
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\obj\Debug\exPercurso.csproj.SuggestedBindingRedirects.cache
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\obj\Debug\exPercurso.csproj.CoreCompileInputs.cache
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\obj\Debug\exPercurso.exe
+E:\ \TUDO\ETEC\PA-DS\exPercurso\exPercurso\obj\Debug\exPercurso.pdb
